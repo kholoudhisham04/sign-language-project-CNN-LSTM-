@@ -8,4 +8,4 @@ The model works by processing a sequence of images (a short video) where each fr
 📊 Dataset
 The dataset used for training the model was obtained from Kaggle:
 
-🔗 Sign Language for Alphabet Dataset – Kaggle
+https://www.kaggle.com/datasets/grassknoted/asl-alphabet
